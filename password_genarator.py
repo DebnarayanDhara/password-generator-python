@@ -289,7 +289,6 @@ def main():
         # Play again
         if not ask_yes_no("\nGenerate more passwords? (Y/N): "):
             print("\nThank You for Using Password Generator!")
-            print("Keep Coding and Keep Learning Python!\n")
             break
 
 
