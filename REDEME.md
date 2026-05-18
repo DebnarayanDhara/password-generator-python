@@ -43,6 +43,6 @@ An advanced command-line Password Generator built using Python. It can generate 
 ## Author
 Debnarayan Dhara
 
+## Install Module
 ```bash
-cd advanced-password-generator-python
 pip install pyperclip
